@@ -18,6 +18,7 @@
 
 	<build>
 		<sourceDirectory>src</sourceDirectory>
+		<finalName>jenkins</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
